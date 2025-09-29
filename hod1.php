@@ -5,7 +5,6 @@ if (isset($_GET['user'])) {
   $username = htmlspecialchars($_GET['user']);
 }
 ?>
-
 <!-- Breadcrumb -->
 <div class="breadcrumb-area custom-gradient">
   <nav aria-label="breadcrumb">
